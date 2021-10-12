@@ -1,1 +1,3 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="J:\PROYECTOS WEB\firebase_node_contact\revisitas-cc029-firebase-adminsdk-wjk1s-21d8402a54.json"
+# App Contactos NodeJS
+
+Aplicación de contactos con NodeJS junto con Express y un generador de plantillas (handlebars).
